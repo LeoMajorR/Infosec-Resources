@@ -1,5 +1,6 @@
 <img src= "./assets/0.jpg">
+
 # Infosec
-Infosec Club
+Infosec Club IIT Goa
 
 **Answers Of Quiz Questions.**
